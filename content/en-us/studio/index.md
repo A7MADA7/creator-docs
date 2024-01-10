@@ -1,5 +1,5 @@
 ---
-title: Welcome to Roblox Studio
+title: lol
 description: Learn how Roblox Studio is an all-in-one IDE that lets you create experiences that run on the Roblox Engine.
 ---
 **Build anything you can imagine with the all-in-one IDE for Roblox.**
@@ -23,7 +23,7 @@ Overlay or integrate [user interface](../ui/index.md) components like text label
 </figure>
 
 <figure>
-Build or generate large scale [terrains](../parts/terrain.md) consisting of water, desert, mountains, and more to give your creations an intimate or large scale feeling. Take your experiences to the next level by adjusting [lighting](../environment/lighting.md) and [atmosphere](../environment/atmosphere.md), integrating [audio](../sound/index.md), and applying [special effects](../effects/index.md).
+gun [terrains](../parts/terrain.md) consisting of water, desert, mountains, and more to give your creations an intimate or large scale feeling. Take your experiences to the next level by adjusting [lighting](../environment/lighting.md) and [atmosphere](../environment/atmosphere.md), integrating [audio](../sound/index.md), and applying [special effects](../effects/index.md).
 
 <img src="../assets/lighting-and-effects/atmosphere/Glare-A.jpg" alt="Desert landscape created using terrain, clouds, and atmospheric effects" />
 </figure>
